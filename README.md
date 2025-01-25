@@ -1,1 +1,1 @@
-
+The MessageApplication is a simple chat application built with Spring Boot. It allows users to send messages to each other in a basic, real-time chat interface. The application focuses on demonstrating the use of Spring Boot for handling backend processes and might include features like message sending, receiving, and possibly user management.
